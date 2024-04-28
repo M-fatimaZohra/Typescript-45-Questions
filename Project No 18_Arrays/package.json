@@ -1,0 +1,15 @@
+{
+  "name": "project-no-18_arrays",
+  "version": "1.0.0",
+  "description": "makeing array for names ",
+  "main": "array.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "FATIMA ZOHRA",
+  "license": "MIT",
+  "keywords": [],
+  "devDependencies": {
+    "@types/node": "^20.11.30"
+  }
+}
