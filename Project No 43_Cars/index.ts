@@ -5,7 +5,7 @@ function discriptionOfCars(){
     model :"Camry",
     Color :"white",
     Year :2022,
-    BattaryCapacity :"1.6 kWh to 3 kWh"
+    BattaryCapacity :"1.6 kWh to 2 kWh"
 
     }
 
