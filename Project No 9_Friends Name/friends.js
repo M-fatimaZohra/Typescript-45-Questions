@@ -1,4 +1,5 @@
-var names = ['Sana', 'Muskan', 'Muntaha', 'Samrina'];
+"use strict";
+let names = ['Sana', 'Muskan', 'Muntaha', 'Samrina'];
 console.log(names[0]);
 console.log(names[1]);
 console.log(names[2]);
