@@ -1,9 +1,9 @@
 import { log } from "console";
 
-let toPerson:string= "Samina";
+let toPerson:string= "sAMRINA";
 let person =toPerson.toUpperCase();
 let person2 =toPerson.toLowerCase();
-let person3 =toPerson.replace(/\bw/g,c => c.toLocaleUpperCase());
+let person3 =(toPerson.charAt(0).toUpperCase()+toPerson.slice(1).toLowerCase());
 ;
 ;
 

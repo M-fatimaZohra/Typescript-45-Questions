@@ -1,9 +1,9 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
-let toPerson = "Samina";
+let toPerson = "sAMRINA";
 let person = toPerson.toUpperCase();
 let person2 = toPerson.toLowerCase();
-let person3 = toPerson.replace(/\bw/g, c => c.toLocaleUpperCase());
+let person3 = (toPerson.charAt(0).toUpperCase() + toPerson.slice(1).toLowerCase());
 ;
 ;
 console.log(person);
